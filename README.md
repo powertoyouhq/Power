@@ -1,3 +1,6 @@
+
+![power](https://github.com/Knexis/Power/blob/master/art/power_logo_200.png?raw=true)
+
 # Power
 To the people.
 
